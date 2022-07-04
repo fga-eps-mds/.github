@@ -1,4 +1,11 @@
-## Hi there 👋
+##  Olá 👋
+
+Organização das disciplinas "Métodos de Desenvolvimento de Software" (MDS) e "Engenharia de Produto"(EP), na Universidade de Brasília (UnB).
+
+Professores responsáveis:
+
+- Carla Rocha (carlarocha.org) - caguiar@unb.br
+- Hilmer Neri - hilmer@unb.br
 
 <!--
 
